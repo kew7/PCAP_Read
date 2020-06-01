@@ -18,7 +18,7 @@ int main(int argc, char* argv[])
 	/*
 	* Step 2 - Get a file name
 	*/
-	string file = "2.cap";
+	string file = "CAP//2.cap";
 	/*
 	* Step 3 - Create an char array to hold the error.
 	*/
